@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>lemon_app</name>
+    <version>0.0.0</version>
+    <description>LEMON Graph Library - Usage Example</description>
+    <maintainer email="tpetricek@gmail.com">Tomas Petricek</maintainer>
+    <license>Boost Software License, Version 1.0</license>
+    <buildtool_depend>catkin</buildtool_depend>
+    <depend>LEMON</depend>
+    <depend>roscpp</depend>
+</package>
